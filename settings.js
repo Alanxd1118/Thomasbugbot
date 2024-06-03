@@ -2,15 +2,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = ['6285292206957']
-global.ownername = '💖𝙎𝙃𝙄𝙉𝘾𝙃𝘼𝙉 メ 𝙒𝙄𝘽𝙐𝙎𝙊𝙁𝙏💖'
+global.ownernomer = ['94714348255']
+global.ownername = 'ɪᴛᴢ ᴍᴇ ᴋʟᴡ : ᴛʜᴏᴍᴀꜱ'
 global.ytname = " "
 global.socialm = " "
 global.location = "Indonesia, Jepang"
 
-global.ownernumber = ['6285292206957']  //creator number
-global.ownername = '💖𝙎𝙃𝙄𝙉𝘾𝙃𝘼𝙉 メ 𝙒𝙄𝘽𝙐𝙎𝙊𝙁𝙏💖' //owner name
-global.botname = '〔 ıll ⫹⫺ ©ɴᴇʀᴏʙᴏᴛ ²⁰²⁴/²⁰²⁵ 浤 llı 〕' //name of the bot
+global.ownernumber = ['94714348255']  //creator number
+global.ownername = '🎓ᴘᴏᴡᴇʀᴇᴅ ᵇʸ͟⇝ꪏ͢🎭[දා.ර්.ශ.නි.ක]🎓🗣️' //owner name
+global.botname = 'ɪᴛᴢ ᴍᴇ ᴋʟᴡ : ᴛʜᴏᴍᴀꜱ' //name of the bot
 
 //sticker details
 global.packname = ''
@@ -21,7 +21,7 @@ global.themeemoji = '🪀'
 global.wm = "Nero Bot Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20'
+global.link = ''
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
