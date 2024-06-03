@@ -1,22 +1,14 @@
-//base by DGXeon (Xeon Bot Inc.)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
-
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = ['6285292206957','6285186666849']
+global.ownernomer = ['6285292206957']
 global.ownername = '💖𝙎𝙃𝙄𝙉𝘾𝙃𝘼𝙉 メ 𝙒𝙄𝘽𝙐𝙎𝙊𝙁𝙏💖'
 global.ytname = " "
 global.socialm = " "
 global.location = "Indonesia, Jepang"
 
-global.ownernumber = ['6285292206957','6285186666849']  //creator number
+global.ownernumber = ['6285292206957']  //creator number
 global.ownername = '💖𝙎𝙃𝙄𝙉𝘾𝙃𝘼𝙉 メ 𝙒𝙄𝘽𝙐𝙎𝙊𝙁𝙏💖' //owner name
 global.botname = '〔 ıll ⫹⫺ ©ɴᴇʀᴏʙᴏᴛ ²⁰²⁴/²⁰²⁵ 浤 llı 〕' //name of the bot
 
